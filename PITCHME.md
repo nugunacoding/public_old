@@ -14,26 +14,30 @@ This is a sample page for you to understand how to create Git style markdown doc
 * What is Git?
 ...
 
+---
 ###### 3rd Page
 * How to sign up?
 
+---
 ###### 4th Page
 * Create your first Repository.
 
+---
 ###### 5th Page
 * Create your first Document.
   - README.md
 
+---
 ###### 6th Page
 * Practice Markdown Syntax and See it rendered.
   - PITCHME.md
-  
-GitHub | GitPitch
--------|---------
-Text-based | Slide-optimized
+    GitHub | GitPitch
+    -------|---------
+    Text-based | Slide-optimized
   
   *very easy. just change github to gitpitch on the address.*
-  
+
+---
 ###### 7th Page
 * OK, now is the time to make pages to introduce yourself
   **with Git Document**.
