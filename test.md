@@ -13,6 +13,9 @@
 
 [![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.ssafy.com)
 
+
+<a href="http://www.ssafy.com" target="_blank">SSAFY Website</a>
+
 Welcome!! 
 
 
