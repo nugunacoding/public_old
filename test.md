@@ -10,9 +10,11 @@
 
 [Go to SSAFY](www.ssafy.com)
 
---------------------------------------------------------------------------
-|![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png) | Welcome!! |
---------------------------------------------------------------------------
+
+[![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.saffy.com)
+
+Welcome!! 
+
 
 1 hello w/o a dot.
 2 hello w/o a dot.
