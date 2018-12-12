@@ -13,3 +13,19 @@
 ![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
 
 * Welcome!!
+
+    for (int i = 0; i < 10; i++) {
+      System.out.println("This is a test.");
+    }
+    
+```
+for (int i = 0; i < 10; i++) {
+  System.out.println("This is a test.");
+}
+```
+
+```Java
+for (int i = 0; i < 10; i++) {
+  System.out.println("This is a test.");
+}
+```
