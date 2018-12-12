@@ -14,17 +14,15 @@
 [![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.ssafy.com)
 
 
-<a href="http://www.ssafy.com" target="_blank">SSAFY Website</a>
+<a href="http://www.ssafy.com" target="_blank">SSAFY Website with new window</a>
 
-Welcome!! 
+Welcome!!
 
 
-1 hello w/o a dot.
-2 hello w/o a dot.
 1. hello w/t a dot.
 2. hello w/t a dot.
 
-    
+test:
     for (int i = 0; i < 10; i++) {
       System.out.println("This is a test.");
     }
