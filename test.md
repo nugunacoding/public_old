@@ -40,3 +40,8 @@ for (int i = 0; i < 10; i++) {
 
 I think you should use an
 `<addr>` element here instead.
+
+"Name | Speciality
+-------- | -------------
+John | Java
+Peter | Python"
