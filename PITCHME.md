@@ -32,7 +32,7 @@ This is a sample page for you to understand how to create Git style markdown doc
 * Practice Markdown Syntax and See it rendered.
   - PITCHME.md
      GitHub     | GitPitch        
-    :-----------|-----------------:
+    -----------|-----------------
      Text-based | Slide-optimized 
   
   *very easy. just change github to gitpitch on the address.*
