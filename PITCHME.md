@@ -1,7 +1,7 @@
 ---
 ###### 1st Page
 
-![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
+[![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.ssafy.com)
 
 Hello, SSAFY Students!
 
