@@ -11,7 +11,7 @@
 [Go to SSAFY](www.ssafy.com)
 
 
-[![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.saffy.com)
+[![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)](https://www.ssafy.com)
 
 Welcome!! 
 
