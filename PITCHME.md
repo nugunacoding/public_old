@@ -2,6 +2,7 @@
 ###### 1st Page
 
 ![SSAFY Image](https://edu.ssafy.com/asset/images/logo.png)
+
 Hello, SSAFY Students!
 
 This is a sample page for you to understand how to create Git style markdown documents.
@@ -12,5 +13,5 @@ This is a sample page for you to understand how to create Git style markdown doc
 ---
 ###### 2nd Page
 
-
-
+* What is Git?
+...
