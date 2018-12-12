@@ -47,3 +47,5 @@ John | Java
 Peter | Python"
 
 ~~text~~
+
+:camel:
