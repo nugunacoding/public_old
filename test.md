@@ -15,6 +15,7 @@
 
 
 <a href="http://www.ssafy.com" target="_blank">SSAFY Website with new window</a>
+doesn't work...
 
 Welcome!!
 
